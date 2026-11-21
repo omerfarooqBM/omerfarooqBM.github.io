@@ -1,5 +1,5 @@
 // Set your Upwork profile link here to show the "Hire me on Upwork" buttons.
-const LINKS = { upwork: "" };
+const LINKS = { upwork: "https://www.upwork.com/freelancers/~010af760a7ccdc6ca3" };
 const STATS_BASE = "https://raw.githubusercontent.com/omerfarooqBM/omerfarooqBM/main/assets/badges";
 
 const root = document.documentElement;
